@@ -1,3 +1,3 @@
-# C-Clase-de-hoy
+# C-Clase
 
-¡Hoy es viernes!
+Â¡aaaaa!
